@@ -9,3 +9,5 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+- View/test it here: https://furbo1.github.io/Exchange-Rate-Calculator-Portfolio/
+[!Alt Text]
