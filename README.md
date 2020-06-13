@@ -10,4 +10,4 @@ Select countries to get the exchange rate for a specific amount
 - Update values on amount change
 - Swap country rates
 - View/test it here: https://furbo1.github.io/Exchange-Rate-Calculator-Portfolio/
-[!Alt Text]
+[!Alt Text](https://github.com/furbo1/Exchange-Rate-Calculator-Portfolio/blob/master/Screenshot_2020-06-13%20Exchange%20Rate%20Calcumator.png)
